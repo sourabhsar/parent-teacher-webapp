@@ -1,0 +1,14 @@
+#java files
+*.class
+*.jar
+*.war
+*.ear
+*.eclipse
+*.settings
+*.project
+*.classpath
+
+parent-teacher-webapp/.idea/*
+parent-teacher-webapp/parent-teacher-webapp.iml
+parent-teacher-webapp/target/*
+
